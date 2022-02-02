@@ -1,2 +1,2 @@
-# Documentazione
-Documentazione del progetto di Ingegeria del software
+# ProgettoIngengeria
+Questa è la directory del progetto di ingegneria
