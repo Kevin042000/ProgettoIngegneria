@@ -5,6 +5,7 @@ public class ProvaCommit {
 		// TODO Auto-generated method stub
 		System.out.println("Commit..");
 		System.out.println("commit2");
+		System.out.println("Funziona?");
 	}
 
 }
