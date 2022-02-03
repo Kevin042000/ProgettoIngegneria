@@ -4,6 +4,7 @@ public class Prova {
 		// TODO Auto-generated method stub
 		System.out.println("Funziona!!!");
 		System.out.println("no");
+		System.out.println("no");
 	}
 
 }
