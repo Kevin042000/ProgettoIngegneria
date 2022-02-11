@@ -1,5 +1,5 @@
 package ProgettoIngengeria;
 
-public class ProvaAndrea {
+public class ProvaAndrea{
 
 }
