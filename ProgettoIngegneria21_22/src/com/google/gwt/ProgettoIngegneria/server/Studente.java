@@ -6,7 +6,7 @@ public class Studente extends RemoteServiceServlet implements StrategyTipoUtente
 	protected TipoUtente utente;
 	
 	public void setTipoUtente() {
-		this.utente = utente.STUDENTE;
+		this.utente = utente.STUDENTE;;
 	}
 	
 }
